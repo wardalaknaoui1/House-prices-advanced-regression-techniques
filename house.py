@@ -489,5 +489,4 @@ final_submission.head()
 # In[49]:
 
 
-# Please if you find this notebook helpful up.vote. I appreciate it.
 
